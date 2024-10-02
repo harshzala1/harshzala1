@@ -41,10 +41,10 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hetbhalani&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshzala1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetbhalani&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117" alt="hetbhalani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshzala1&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117" alt="hetbhalani" /></p>
 <br>
 
 
