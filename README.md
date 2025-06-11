@@ -6,6 +6,28 @@
 - 🌱 I’m currently learning **DSA, Cloud, and Web-Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshzala1](https://github.com/harshzala1)
+## 🛠 Skills
+
+Here are some of the technologies and languages I'm proficient in:
+
+- **Frontend Development:**<br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,flutter,tailwindcss,bootstrap"/>
+
+- **Backend Development:**<br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet"/>
+
+- **Database Management:**<br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+
+- **Programming Languages:**<br/>
+  <img src="https://skillicons.dev/icons?i=js,dart,java"/>
+
+- **Other Technologies:**<br/>
+  <img src="https://skillicons.dev/icons?i=github,git,postman"/>
+
+I'm always open to collaboration and eager to learn from the community. If any of my projects interest you or if you have suggestions for improvement, please don't hesitate to reach out.
+
+📧 **Email**: pareshchaudhary330@gmail.com
 
 - 📫 How to reach me **harshzala2601@gmail.com**
 
