@@ -22,8 +22,6 @@ Here are some of the technologies and languages I'm proficient in:
 - **Programming Languages:**<br/>
   <img src="https://skillicons.dev/icons?i=js,dart,java"/>
 
-- **Other Technologies:**<br/>
-  <img src="https://skillicons.dev/icons?i=github,git,postman"/>
 
 I'm always open to collaboration and eager to learn from the community. If any of my projects interest you or if you have suggestions for improvement, please don't hesitate to reach out.
 
