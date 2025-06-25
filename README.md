@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Harsh Zala</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshzala1&label=Profile%20views&color=0e75b6&style=flat" alt="harshzala1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20views&color=0e75b6&style=flat" alt="harshzala1" /> </p>
 
 - 🔭 I’m currently working on **something cool!!!**
 
